@@ -180,7 +180,3 @@ Tab:CreateButton({
 })
 
 Tab:CreateSection("Become REAL OP!")
-Beta
-0 / 0
-used queries
-1
